@@ -1,0 +1,14 @@
+D:\Yaron\git\c-\input-outputs\ReadNums\bin\Debug\net6.0\ReadNums.exe
+D:\Yaron\git\c-\input-outputs\ReadNums\bin\Debug\net6.0\ReadNums.deps.json
+D:\Yaron\git\c-\input-outputs\ReadNums\bin\Debug\net6.0\ReadNums.runtimeconfig.json
+D:\Yaron\git\c-\input-outputs\ReadNums\bin\Debug\net6.0\ReadNums.dll
+D:\Yaron\git\c-\input-outputs\ReadNums\bin\Debug\net6.0\ReadNums.pdb
+D:\Yaron\git\c-\input-outputs\ReadNums\obj\Debug\net6.0\ReadNums.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yaron\git\c-\input-outputs\ReadNums\obj\Debug\net6.0\ReadNums.AssemblyInfoInputs.cache
+D:\Yaron\git\c-\input-outputs\ReadNums\obj\Debug\net6.0\ReadNums.AssemblyInfo.cs
+D:\Yaron\git\c-\input-outputs\ReadNums\obj\Debug\net6.0\ReadNums.csproj.CoreCompileInputs.cache
+D:\Yaron\git\c-\input-outputs\ReadNums\obj\Debug\net6.0\ReadNums.dll
+D:\Yaron\git\c-\input-outputs\ReadNums\obj\Debug\net6.0\refint\ReadNums.dll
+D:\Yaron\git\c-\input-outputs\ReadNums\obj\Debug\net6.0\ReadNums.pdb
+D:\Yaron\git\c-\input-outputs\ReadNums\obj\Debug\net6.0\ReadNums.genruntimeconfig.cache
+D:\Yaron\git\c-\input-outputs\ReadNums\obj\Debug\net6.0\ref\ReadNums.dll
