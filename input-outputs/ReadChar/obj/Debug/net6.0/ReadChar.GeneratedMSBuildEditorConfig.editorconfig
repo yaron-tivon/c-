@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = ReadNums
-build_property.ProjectDir = C:\Users\user\Source\Repos\yaron-tivon\c-\input-outputs\ReadNums\
+build_property.RootNamespace = ReadChar
+build_property.ProjectDir = C:\Users\user\source\repos\yaron-tivon\c-\input-outputs\ReadChar\
