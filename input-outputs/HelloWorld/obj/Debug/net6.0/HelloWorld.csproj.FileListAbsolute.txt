@@ -1,0 +1,14 @@
+D:\Yaron\git\c-\input-outputs\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+D:\Yaron\git\c-\input-outputs\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+D:\Yaron\git\c-\input-outputs\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+D:\Yaron\git\c-\input-outputs\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+D:\Yaron\git\c-\input-outputs\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+D:\Yaron\git\c-\input-outputs\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yaron\git\c-\input-outputs\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+D:\Yaron\git\c-\input-outputs\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+D:\Yaron\git\c-\input-outputs\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Yaron\git\c-\input-outputs\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+D:\Yaron\git\c-\input-outputs\HelloWorld\obj\Debug\net6.0\refint\HelloWorld.dll
+D:\Yaron\git\c-\input-outputs\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+D:\Yaron\git\c-\input-outputs\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
+D:\Yaron\git\c-\input-outputs\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll
